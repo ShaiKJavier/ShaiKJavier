@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>  COVID-19 patients in hospital administrator data </title>
+</head>
+<body>
+<script type="text/javascript" src="/assets/jquery/js/jquery.min.js"></script>
+<script type="module" src="/assets/app/js/TestController.js"></script>
+<div class="row">
+   <div class="col-0xs-12">
+      <ul class="nav nav-pills">
+         <li role="presentation"><a href="./#!/">Home</a></li>
+         <li role="presentation"><a href="./#!/red">Red Page</a></li>
+         <li role="presentation"><a href="./#!/green">Green Page</a></li>
+         <li role="presentation"><a href="./#!/blue">Blue Page</a></li>
+      </ul>
+   </div>
+</div>
+<div class="row">
+   <div class="col-xs-12">
+      <div class="panel panel-default">
+         <div class="panel-body">
+            <ng-view></ng-view>
+         </div>
+      </div>            
+   </div>
+</div>
+<div class="container top-margin" ng-app="startup">
+...
+</div>
+...
+<script type="text/javascript" src="/assets/jquery/js/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/angularjs/1.7.5/angular.min.js"></script>
+<script type="text/javascript" src="/assets/angularjs/1.7.5/angular-resource.min.js"></script>
+<script type="text/javascript" src="/assets/angularjs/1.7.5/angular-route.min.js"></script>      
+<script type="module" src="/assets/app/js/app.js"></script>
+...
