@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaiKJavier
-- 👀 I’m interested in forntend devloping and designing.
-- 🌱 I’m currently learning Artifical inteligence
+- 👀 I’m interested in data scientist .
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on  other content github.
 - 📫 mail me shaikjavier@gmail.com
 
