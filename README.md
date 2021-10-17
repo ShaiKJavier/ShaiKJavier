@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaiKJavier
+- 👋 Hi, I’m @ShaiK Javier
 - 👀 I’m interested in data scientist .
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on  other content github.
